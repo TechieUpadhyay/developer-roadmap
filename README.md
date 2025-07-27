@@ -67,3 +67,4 @@ All-in-One Future-Proof Dev Plan by Me
 ✔ Learn by building, not just watching
 
 🔥 GOAL: Become a self-made “All-in-One Developer” by March 2026 (before Class 12th ends)
+🛠️ Tools: VS Code, GitHub, Termux (mobile), Firefox DevTools, Android Studio (later)
