@@ -66,4 +66,4 @@ All-in-One Future-Proof Dev Plan by Me
 ✔ Upload all projects to GitHub
 ✔ Learn by building, not just watching
 
-🔥 GOAL: Become a self-made “All-in-One Developer” by 2026
+🔥 GOAL: Become a self-made “All-in-One Developer” by March 2026 (before Class 12th ends)
